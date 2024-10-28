@@ -12,3 +12,5 @@ Order of operations:
    - Model selected: Decision Tree Classifier
    - Check accuracy score
    - Check confusion matrix 
+
+This uses public data for Amazon product reviews as the test set.
